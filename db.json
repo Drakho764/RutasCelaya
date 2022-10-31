@@ -25,13 +25,11 @@
       "destino": "San Isidro de Elguera",
       "camiones": [
         "R1",
-        "R2",
-        "R3"
+        "R2"
       ],
       "choferes": [
         "R1 Luis Tavarez",
-        "R2 Juan Rodríguez",
-        "R3 Julian Venegas"
+        "R2 Juan Rodríguez"
       ]
     },
     {
