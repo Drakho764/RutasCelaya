@@ -16,6 +16,41 @@
         "R2 Juan Rodríguez",
         "R3 Julian Venegas"
       ]
-    }
+    },
+    {
+      "id": "2",
+      "codigo": "19",
+      "nombre": "Celaya – San Isidro de Elguera",
+      "salida": "Central de Autobuses",
+      "destino": "San Isidro de Elguera",
+      "camiones": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "choferes": [
+        "R1 Luis Tavarez",
+        "R2 Juan Rodríguez",
+        "R3 Julian Venegas"
+      ]
+    },
+    {
+      "id": "3",
+      "codigo": "44",
+      "nombre": "Villas del Bajío – El Cantar",
+      "salida": "Villas del Bajío IV",
+      "destino": "Antonio Plaza fte. a central",
+      "camiones": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "choferes": [
+        "R1 Luis Tavarez",
+        "R2 Juan Rodríguez",
+        "R3 Julian Venegas"
+      ]
+    },
+    
   ]
 }
