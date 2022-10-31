@@ -1,32 +1,21 @@
 {
-   "rutas":[
-	{
-    	"id_ruta": "1",
-         "codigo": "16",
-         "nombre_ruta": "Villa Los Álamos – Eje Sur-Oriente",
-         "salida": "Villas de Los Álamos",
-         "destino": "Progreso y Solidaridad"
-        "camiones":["R1","R2","R3"],
-        "choferes":["R1":"Luis Tavarez", "R2":"Juan Rodríguez","R3":"Julian Venegas"]
-	},
- 	{
-         "id_ruta": "2",
-         "codigo": "40",
-         "nombre_ruta": "El Becerro – Las Delicias",
-         "salida": "	Santos Degollado",
-         "destino": "Las Delicias"
-        "camiones":["A1","A2","A3"],
-        "choferes":["A1":"Luis Tavarez", "A2":"Juan Rodríguez","A3":"Julian Venegas"]
-	},
-	{
-         "id_ruta": "3",
-         "codigo": "61",
-         "nombre_ruta": "Salvador Ortega – Cd. Industrial",
-         "salida": "Villas del Bajío IV",
-         "destino": "Cd. Industrial"
-        "camiones":["S1","S2","S3"],
-        "choferes":["S1":"Luis Tavarez", "S2":"Juan Rodríguez","S3":"Julian Venegas"]
-	}
-	]
-   
+  "rutascelaya": [
+    {
+      "id": "1",
+      "codigo": "16",
+      "nombre": "Villa Los Álamos – Eje Sur-Oriente",
+      "salida": "Villas de Los Álamos",
+      "destino": "Progreso y Solidaridad",
+      "camiones": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "choferes": [
+        "R1 Luis Tavarez",
+        "R2 Juan Rodríguez",
+        "R3 Julian Venegas"
+      ]
+    }
+  ]
 }
