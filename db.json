@@ -15,7 +15,8 @@
         "R1 Luis Tavarez",
         "R2 Juan Rodríguez",
         "R3 Julian Venegas"
-      ]
+      ],
+      "disp":"no"
     },
     {
       "id": "2",
@@ -30,7 +31,8 @@
       "choferes": [
         "R1 Luis Tavarez",
         "R2 Juan Rodríguez"
-      ]
+      ],
+      "disp":"si"
     },
     {
       "id": "3",
@@ -47,7 +49,8 @@
         "R1 Luis Tavarez",
         "R2 Juan Rodríguez",
         "R3 Julian Venegas"
-      ]
+      ],
+      "disp":"si"
     } 
   ]
 }
